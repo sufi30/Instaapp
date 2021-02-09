@@ -2,7 +2,8 @@
 SQLyog Ultimate v11.11 (64 bit)
 MySQL - 5.5.5-10.1.30-MariaDB : Database - soundcrave
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -14,7 +15,7 @@ MySQL - 5.5.5-10.1.30-MariaDB : Database - soundcrave
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`soundcrave` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
-USE `soundcrave`;
+USE `instaaplikasi`;
 
 /*Table structure for table `businessuser` */
 
